@@ -1,6 +1,6 @@
 Hi I'm Kerry!
 
-👨‍🎓 4th year CS Specialist at UofT.\
+👨‍🎓 A 4th year CS Specialist at UofT.\
 💼 Just finished an awesome 8 month work term at [Moves Financial](https://movesfinancial.com/) \
 💪 I've done full-stack web and mobile development at two different companies now and did a surprising amount of project mangagement for an intern. Frontend, backend, and project organization are my strong suits!\
 \
