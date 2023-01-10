@@ -4,7 +4,7 @@ Hi I'm Kerry!
 💼 Just finished an awesome 8 month work term at [Moves Financial](https://movesfinancial.com/). \
 💪 I've done full-stack web and mobile development at two different companies now with a surprising amount of project mangagement for an intern. Frontend, backend, and project organization are my strong suits!\
 \
-I took CSC301 which I think is a smaller version of CSC454/CSC491. If I learned anything from that, it's that commitment >>> people who are accomplished but have little time for the course. I'm willing to make this course my top priority and I'm hoping my teammates are willing to put in the time as well.(Then it's easy for everyone) 🙌
+I took CSC301 which I think is a smaller version of CSC454/CSC491. If I learned anything from that, it's that commitment >>> people who are accomplished but have little time for the course. I'm willing to make this course my top priority and I'm hoping my teammates are willing to put in the time as well🙌 (then it's easy for everyone). 
 
 Cheers~
 
