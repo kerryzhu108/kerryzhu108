@@ -1,10 +1,4 @@
-Hi I'm Kerry!
 
-👨‍🎓 I'm a 4th year CS Specialist at UofT.\
-💼 Just finished an awesome 8 month work term at [Moves Financial](https://movesfinancial.com/). \
-💪 I've done full-stack web and mobile development at two different companies now with a surprising amount of project mangagement for an intern. Frontend, backend, and project organization are my strong suits!\
-\
-Cheers~
 
 <!--
 **kerryzhu108/kerryzhu108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
